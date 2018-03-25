@@ -18,7 +18,7 @@ How to run:
 >  
 >  interface: name of your interface
 >
->  domain to spoof:  www.XYZ.com
+>  domain to spoof:  w<i></i>ww.<i></i>XYZ.com
 >
 >  ip to spoof: ip where victim will be redirected e.g.  172.217.16.46  => google.com
 >

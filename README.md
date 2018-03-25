@@ -4,9 +4,13 @@
 How to setup:
 ------
 >apt-get install libnet1-dev
+
 >apt-get install libpcap0.8-dev
+
 >echo "1" > /proc/sys/net/ipv4/ip_forward
+
 >make
+
 
 How to run:
 ------
